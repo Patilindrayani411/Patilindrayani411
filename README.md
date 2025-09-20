@@ -172,18 +172,78 @@ JavaScript            █████████████████    80%
 Problem Solving       ████████████████████ 95%
 Team Collaboration    ██████████████████   85%
 </div>
-<!-- Snake Animation -->
+<!-- Enhanced Snake Animation -->
 <div align="center">
-  <img src="https://github.com/patilindrayani411/patilindrayani411/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patilindrayani411/patilindrayani411/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patilindrayani411/patilindrayani411/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patilindrayani411/patilindrayani411/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<!-- Alternative Contribution Animation -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilindrayani411&custom_title=Indrayani's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=0d1117&title_color=00d9ff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30"> Let's Connect & Collaborate
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+🌐 Social Media & Professional Networks
+<table>
+<tr>
+<td align="center" width="200px">
+<a href="https://www.linkedin.com/in/indrayani-patil">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+<br><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"/>
+<br><sub>Professional Network</sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="mailto:patilindrayani411@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+<br><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
+<br><sub>Direct Communication</sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="https://github.com/patilindrayani411">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+<br><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
+<br><sub>Code Repository</sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="http://www.linkedin.com/in/indrayani-patil">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+<br><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"/>
+<br><sub>My Work Showcase</sub>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!-- Interactive Contact Cards -->
+<div align="center">
+💬 Get In Touch
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🤝_Open_for-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" alt="Collaboration"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💼_Available_for-Opportunities-blue?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" alt="Opportunities"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📧_Response_time-Within_24h-orange?style=for-the-badge&logo=clock&logoColor=white&labelColor=0d1117" alt="Response Time"/>
+</td>
+</tr>
+</table>
+</div>
+<!-- Animated Contact Animation -->
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br>
+<em>"Always excited to discuss new projects and opportunities!"</em>
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
