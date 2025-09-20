@@ -93,9 +93,84 @@ ProjectDescriptionTech StackStatus🔗 Job LinkerAI-powered job matching platfor
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Achievements & Trophies
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Domain Expertise
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patilindrayani411&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+🎯 Core Specializations
+<table>
+<tr>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="80"/>
+<br><strong>Full Stack Development</strong>
+<br><sub>End-to-end web applications</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
+<br><strong>Python Development</strong>
+<br><sub>Backend & Data Solutions</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
+<br><strong>Database Design</strong>
+<br><sub>SQL & NoSQL Architecture</sub>
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+<br><strong>API Development</strong>
+<br><sub>RESTful & GraphQL APIs</sub>
+</td>
+</tr>
+</table>
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Achievements & Trophies
+<div align="center">
+🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=patilindrayani411&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
+</div>
+<!-- Custom Achievement Cards -->
+<div align="center">
+🎖️ Professional Milestones
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_Projects_Completed-15+-brightgreen?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="Projects"/>
+<br><sub>Full Stack Applications</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💻_Languages_Mastered-7+-blue?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117" alt="Languages"/>
+<br><sub>Programming Languages</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🗄️_Databases_Worked-5+-orange?style=for-the-badge&logo=database&logoColor=white&labelColor=0d1117" alt="Databases"/>
+<br><sub>Database Systems</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Degree-MCA-purple?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="Education"/>
+<br><sub>Master's in Computer Applications</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡_Problem_Solver-Expert-red?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117" alt="Problem Solver"/>
+<br><sub>Algorithm & Data Structures</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌐_Full_Stack-Specialist-cyan?style=for-the-badge&logo=web&logoColor=white&labelColor=0d1117" alt="Full Stack"/>
+<br><sub>Frontend + Backend + Database</sub>
+</td>
+</tr>
+</table>
+</div>
+<!-- Animated Progress Bars -->
+<div align="center">
+📊 Skill Progression
+textPython Development    ████████████████████ 95%
+Full Stack Web Dev    ███████████████████  90%
+Database Design       ██████████████████   85%
+JavaScript            █████████████████    80%
+Problem Solving       ████████████████████ 95%
+Team Collaboration    ██████████████████   85%
 </div>
 <!-- Snake Animation -->
 <div align="center">
