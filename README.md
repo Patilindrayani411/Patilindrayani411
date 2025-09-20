@@ -1,134 +1,154 @@
-Hi there, I'm Indrayani Patil 👋
+<!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Indrayani%20Patil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
+<!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;💻+Python+Developer;🌐+Software+Engineer;⚡+Problem+Solver;🔥+Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=00d9ff&vCenter=true&size=22&pause=1000&background=0d1117" alt="Typing Animation">
+</div>
+<!-- Developer GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
 </div>
 
+<!-- Profile Stats Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=patilindrayani411&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/patilindrayani411?label=Followers&style=for-the-badge&color=blue" alt="Followers">
-  <img src="https://img.shields.io/github/stars/patilindrayani411?label=Stars&style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=patilindrayani411&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/patilindrayani411?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/patilindrayani411?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus">
 </div>
-🚀 What I Do
-
-💻 Full Stack Development: Building scalable web applications with modern frameworks
-🐍 Python Development: Creating robust backend solutions and data-driven applications
-🎯 Problem Solving: Developing efficient algorithms and optimizing code performance
-📊 Database Management: Designing and managing SQL/NoSQL databases
-🌐 Web Technologies: Crafting responsive and interactive user interfaces
-🔧 DevOps & Deployment: Setting up CI/CD pipelines and cloud infrastructure
-
-🛠️ Tech Stack & Tools
-<div align="center">
-Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-Backend Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-Databases
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
-Data Science & Analytics
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-Mobile Development
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-</div>
-🌟 Featured Projects
-🔗 Job Linker
-
-Currently Working On - A comprehensive job matching platform
-
-
-Tech Stack: Python, React, MySQL, Node.js
-Features: AI-powered job recommendations, real-time chat, application tracking
-Status: 🚧 In Development
-
-🎓 Online Alumni Legacy Hub
-
-A platform connecting alumni with their alma mater
-
-
-Tech Stack: Full Stack Web Development
-Features: Alumni networking, event management, mentorship programs
-Collaboration: Open for contributors
-🔗 View Project
-
-💰 Expensify Hub
-
-Personal expense tracking and budget management application
-
-
-Tech Stack: Python, JavaScript, MySQL
-Features: Expense categorization, budget alerts, financial insights
-Status: Seeking collaborators for enhanced features
-
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patilindrayani411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilindrayani411&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilindrayani411&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilindrayani411&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patilindrayani411&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-🎯 Currently Learning & Working On
-<div align="center">
-```python
-class IndrayaniPatil:
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+pythonclass SoftwareDeveloper:
     def __init__(self):
         self.name = "Indrayani Patil"
         self.role = "Full Stack Python Developer"
-        self.current_focus = ["Job Linker Platform", "Advanced Python", "Cloud Architecture"]
-        self.languages = ["Python", "JavaScript", "C", "SQL", "PHP"]
-        self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
-        self.frameworks = ["React", "Node.js", "Bootstrap", "Django"]
-        self.tools = ["Git", "Docker", "VS Code", "Postman"]
-def get_current_status(self):
-    return "Building innovative solutions while learning cutting-edge technologies! 🚀"
+        self.location = "India 🇮🇳"
+        self.education = "MCA Graduate"
+        self.current_project = "Job Linker Platform"
+        self.learning = ["Advanced Python", "Cloud Architecture", "DevOps"]
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "C", "SQL", "PHP", "HTML", "CSS"],
+            "frameworks": ["React", "Node.js", "Bootstrap", "Django", "Flask"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
+            "tools": ["Git", "Docker", "VS Code", "Postman", "Linux"],
+            "specialties": ["Full Stack Development", "Database Design", "API Development"]
+        }
+    
+    def current_status(self):
+        return "Building innovative solutions and scaling applications 🚀"
+
+developer = SoftwareDeveloper()
+print(developer.current_status())
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> What I'm Up To
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coder GIF">
+
+🔭 Currently Building: Job Linker - A comprehensive job matching platform
+🌱 Learning: Advanced Full Stack Development & Cloud Technologies
+👯 Open to Collaborate: Online Alumni Legacy Hub
+🤝 Seeking Help: Expensify Hub - Personal expense management system
+💬 Ask me about: Python, JavaScript, SQL, Web Development, Database Design
+📫 Reach me at: patilindrayani411@gmail.com
+⚡ Fun fact: I turn coffee into code! ☕➡️💻
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Tech Arsenal
+<div align="center">
+🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend Skills" />
+⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=python,nodejs,php,c&theme=dark" alt="Backend Skills" />
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Database Skills" />
+🔧 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,linux,github&theme=dark" alt="Tools" />
+📱 Mobile & Others
+<img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Mobile" />
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
+<div align="center">
+ProjectDescriptionTech StackStatus🔗 Job LinkerAI-powered job matching platform with real-time featuresPython, React, MySQL, Node.js🚧 In Progress🎓 Alumni Legacy HubAlumni networking and mentorship platformFull Stack Web Development🤝 Seeking Collaborators💰 Expensify HubPersonal expense tracking and budget managementPython, JavaScript, MySQL🛠️ Development Phase
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patilindrayani411&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=0c1a25&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilindrayani411&layout=compact&langs_count=8&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=0c1a25"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilindrayani411&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=0c1a25&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilindrayani411&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Achievements & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patilindrayani411&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/patilindrayani411/patilindrayani411/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> Development Philosophy
+<div align="center">
+```javascript
+const developerMotto = {
+    code: "Clean, efficient, and scalable",
+    learn: "Never stop growing",
+    build: "Solutions that make a difference",
+    collaborate: "Great things happen in teams",
+    innovate: "Push boundaries with technology"
+};
+console.log("Building the future, one line of code at a time! 🚀");
 
 </div>
 
-## 📫 Let's Connect
-
+<!-- Animated Quote -->
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Developer" alt="Quote"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrayani-patil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilindrayani411@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.linkedin.com/in/indrayani-patil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patilindrayani411)
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  
+  **⭐ Thanks for visiting my profile! Let's build something amazing together ⭐**
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+  
+</div>
 
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=patilindrayani411&icon=5&color=12" alt="Visit Counter"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-  
-  **💡 "Code is poetry written in logic" 💡**
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  *Thanks for visiting my profile! Let's build something amazing together* ⭐
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=patilindrayani411&icon=0&color=0" alt="Visit Counter"/>
+  <h3>🌟 "Transforming ideas into digital reality" 🌟</h3>
+  <p><em>Full Stack Developer | Python Enthusiast | Problem Solver</em></p>
 </div>
